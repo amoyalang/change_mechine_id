@@ -1,3 +1,3 @@
 ```bash
-python3 change_mechine_id.py
+python3 change_cursor_id.py
 ```
